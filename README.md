@@ -11,7 +11,8 @@ Goal
 ▫️Build strong problem-solving skills
 
 
-- 📫 Reach me here, My gmail - hrudhayandonikena@gmail.com. My 
+- 📫 Reach me here, My gmail - hrudhayandonikena@gmail.com.
+- My LinkedIn - www.linkedin.com/in/hrudhayan-donikena
 
 <!---
 Hrudhayan-Donikena/Hrudhayan-Donikena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
